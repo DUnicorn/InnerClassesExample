@@ -9,7 +9,7 @@ public class Button {
 		this.title = title;
 	}
 
-	public String getTitle() {
+	LOL LOL LOL {
 		return title;
 	}
 

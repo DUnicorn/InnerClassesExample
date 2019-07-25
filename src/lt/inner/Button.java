@@ -5,9 +5,11 @@ public class Button {
 	private String title;
 	private OnClickListener onClickLister;
 	
-	pakeitimai second second
 
-	public String getTitle() {
+	oakeitimas master
+
+
+	LOL LOL LOL {
 		return title;
 	}
 

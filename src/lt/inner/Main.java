@@ -6,7 +6,9 @@ public class Main {
 
 	private static Scanner sc = new Scanner(System.in);
 
-	private static Button btnPrint = new Button("Print");
+	some shit will cahnges
+
+asdasdasdasdlkl
 
 	public static void main(String[] args) {
 

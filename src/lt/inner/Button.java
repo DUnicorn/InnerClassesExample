@@ -5,9 +5,7 @@ public class Button {
 	private String title;
 	private OnClickListener onClickLister;
 	
-
 	oakeitimas master
-
 
 	LOL LOL LOL {
 		return title;

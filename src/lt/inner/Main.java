@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
 
-	private static Scanner sc = new Scanner(System.in);
+	private static Scanner sc = new Scanner(System.in); changing lines and lines
 
 	some shit will cahnges
 
@@ -31,7 +31,7 @@ asdasdasdasdlkl
 		//
 
 		/*
-		 * anonymous class not creating separate class.
+		 * anonymous class not creating separate class. all lines 
 		 */
 
 		btnPrint.setOnClickListener(new Button.OnClickListener() {
@@ -50,7 +50,7 @@ asdasdasdasdlkl
 		//
 		// mcLaren.operateClutch(true);
 		// mcLaren.changeGear(1);
-		// mcLaren.operateClutch(false);
+		// mcLaren.operateClutch(false); change it just
 		// System.out.println(mcLaren.wheelSpeed(1000));
 		// mcLaren.changeGear(2);
 		// System.out.println(mcLaren.wheelSpeed(3000));

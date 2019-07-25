@@ -4,9 +4,11 @@ import java.util.Scanner;
 
 public class Main {
 
-	private static Scanner sc = new Scanner(System.in);
+	private static Scanner sc = new Scanner(System.in); changing lines and lines
 
-	private static Button btnPrint = new Button("Print");
+	some shit will cahnges
+
+asdasdasdasdlkl
 
 	public static void main(String[] args) {
 
@@ -29,7 +31,7 @@ public class Main {
 		//
 
 		/*
-		 * anonymous class not creating separate class.
+		 * anonymous class not creating separate class. all lines 
 		 */
 
 		btnPrint.setOnClickListener(new Button.OnClickListener() {
@@ -48,7 +50,7 @@ public class Main {
 		//
 		// mcLaren.operateClutch(true);
 		// mcLaren.changeGear(1);
-		// mcLaren.operateClutch(false);
+		// mcLaren.operateClutch(false); change it just
 		// System.out.println(mcLaren.wheelSpeed(1000));
 		// mcLaren.changeGear(2);
 		// System.out.println(mcLaren.wheelSpeed(3000));
@@ -59,7 +61,7 @@ public class Main {
 
 	}
 
-	private static void listen() {
+	asdahsdkahsdjhaskdhkaj {
 		boolean quit = false;
 		while (!quit) {
 			int choice = sc.nextInt();

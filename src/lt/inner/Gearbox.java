@@ -58,34 +58,5 @@ public class Gearbox {
 	}
 
 	/*
-	 * Inner class The gear is not something that sort of is useful in it own. It is
-	 * couple with gearBox that makes it useful. **** Instances of the gear class
-	 * have got access to all the methods of fields of the outer gearBox class, even
-	 * those mark as private.
-	 */
-	private class Gear {
-
-		private int gearNumber;
-		private double ratio;
-
-		public Gear(int gearNumber, double ratio) {
-			super();
-			this.gearNumber = gearNumber;
-			this.ratio = ratio;
-		}
-
-		public double driveSpeed(int revs) {
-			return revs * (this.ratio);
-		}
-
-		public double getRatio() {
-			return ratio;
-		}
-
-	}
-	/*Objects know about other objects that they need to know about.Nothing apart gearBox
-	 * needs to have any details about actual gear. So the gear class was hidden.
-	 * 
-	 */
-
-}
+	 *weskjfhsjdhfsjkdhflskhdflkshdfksjhkh
+sdfsdfsduhoho

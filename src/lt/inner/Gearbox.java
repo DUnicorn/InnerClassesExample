@@ -6,11 +6,7 @@ import java.util.ArrayList;
  * Top level class
  */
 public class Gearbox {
-
-	private ArrayList<Gear> gears;
-	private int maxGears;
-	private int currentGear = 0;
-	private boolean clutchIsIn;
+MASTERIS #)))))))
 
 	public Gearbox(int maxGears) {
 		super();

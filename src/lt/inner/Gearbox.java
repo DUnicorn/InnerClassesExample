@@ -7,7 +7,8 @@ import java.util.ArrayList;
  */
 public class Gearbox {
 
-	SECOND PAKEITIMAI
+
+MASTERIS #)))))))
 
 	public Gearbox(int maxGears) {
 		super();
